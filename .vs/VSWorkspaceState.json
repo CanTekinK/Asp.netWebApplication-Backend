@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplication18",
+    "\\WebApplication18\\bin",
+    "\\WebApplication18\\DataAccess",
+    "\\WebApplication18\\Dtos",
+    "\\WebApplication18\\Entities",
+    "\\WebApplication18\\Helpers",
+    "\\WebApplication18\\MiddleWares",
+    "\\WebApplication18\\obj",
+    "\\WebApplication18\\Properties"
+  ],
+  "SelectedNode": "\\WebApplication18\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
